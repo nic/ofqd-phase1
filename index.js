@@ -6,7 +6,7 @@ let swaggers = {
         url: 'https://openbanking-brasil.github.io/openapi/swagger-apis/products-services/1.0.2.yml',
         schemas: {
             'personal-accounts': '#/components/schemas/ResponsePersonalAccounts',
-            'business-accounts': '#/components/schemas/ResponsePersonalAccounts',
+            'business-accounts': '#/components/schemas/ResponseBusinessAccounts',
             'personal-loans': '#/components/schemas/ResponsePersonalLoans',
             'business-loans': '#/components/schemas/ResponseBusinessLoans',
             'personal-financings': '#/components/schemas/ResponsePersonalFinancings',
